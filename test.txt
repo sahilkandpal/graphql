@@ -1,2 +1,2 @@
 hello new text
-second line
+my line
