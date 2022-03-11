@@ -1,2 +1,3 @@
 hello new text
 my line
+new data
